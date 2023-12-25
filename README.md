@@ -20,7 +20,7 @@ It's designed to showcase my portfolio, projects, and other information about me
 </ul>
 
 ## Getting Started
-To view the website, simply click <a href="https://markryanodrunia.netlify.app/">here</a>. <br>
+To view the website, simply click <a href="https://markryanodrunia.netlify.app/" target="_blank">here</a>. <br>
 There's no need to set up anything locally to access the site.<br>
 https://markryanodrunia.netlify.app/
 # 
